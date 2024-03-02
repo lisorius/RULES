@@ -1,7 +1,6 @@
 from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
 
-
 def test(request):
     return render(request,'test.html')
 @csrf_exempt
