@@ -15,3 +15,4 @@ def index(request):
 
         HTML.set_cookie('NAME', 'Yroslav')
         return HTML
+#ppppppppppppppppppppppppppppppp
